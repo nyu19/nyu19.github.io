@@ -1,3 +1,1 @@
-# nyu19.github.io
-<hr>
-what is this?
+# [nyu19.github.io](https://nyu19.github.io)
