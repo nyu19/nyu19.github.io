@@ -160,3 +160,11 @@ a:active {
     background: transparent;
     outline: none;
 }
+
+.blurred{
+    filter: blur(3px);
+    transition: all 0.5s ease-in-out;
+}
+.blurred:hover{
+    filter: none;
+}
