@@ -46,6 +46,8 @@ h2 {
 
 .list-social-icons a:hover {
     color: var(--primary-color);
+    transition: all 0.3s ease-in-out;
+
 }
 
 .list-social-icons a .fa-lg {
@@ -58,6 +60,8 @@ h2 {
 
 .list-icons .list-inline-item i:hover {
     color: var(--primary-color);
+    transition: all 0.3s ease-in-out;
+
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -140,20 +144,28 @@ section.resume-section .resume-item .resume-date {
 
 .bg-primary {
     background-color: var(--primary-color) !important;
+    transition: all 0.3s ease-in-out;
+
 }
 
 .text-primary {
     color: var(--primary-color) !important;
+    transition: all 0.3s ease-in-out;
+
 }
 
 a {
     color: var(--primary-color);
+    transition: all 0.3s ease-in-out;
+
 }
 
 a:hover,
 a:focus,
 a:active {
     color: var(--primary-color);
+    transition: all 0.3s ease-in-out;
+
 }
 
 #color-changer {
@@ -167,4 +179,5 @@ a:active {
 }
 .blurred:hover{
     filter: none;
+
 }
